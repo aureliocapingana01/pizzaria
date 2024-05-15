@@ -1,4 +1,4 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 
 * {
     box-sizing: border-box;
@@ -59,6 +59,7 @@ aside.show {
 main {
     flex:1;
     padding:20px;
+    /* background-color: red; */
 }
 h1 {
     font-family:'Hepta Slab', Helvetica, Arial;
